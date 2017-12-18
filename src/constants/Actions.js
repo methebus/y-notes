@@ -1,0 +1,6 @@
+export const ADD_TASK = 'ADD_TASK';
+export const TODO_COMPLETE_TASK = 'TODO_COMPLETE_TASK';
+export const DELETE_TASK = 'DELETE_TASK';
+export const TURN_ON_TIMER = 'TURN_ON_TIMER';
+export const TURN_OFF_TIMER = 'TURN_OFF_TIMER';
+export const CHANGE_TASK_ORDER = 'CHANGE_TASK_ORDER';
